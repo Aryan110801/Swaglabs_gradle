@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="6" name="Login to Swaglabs" skipped="0" tests="6" time="1.96" timestamp="2023-02-14 11:39:06"><testcase name="Login with valid credentials"><failure message="Undefined default URL for page object StepLoginPage" type="java.lang.AssertionError">Undefined default URL for page object StepLoginPage</failure><system-err>Undefined default URL for page object StepLoginPage&#13;
+StepDefinitions.LoginPageDefinitions.user_is_on_home_page(LoginPageDefinitions.java:24)&#13;
+✽.User is on home page(file:///C:/Users/Aryan.Pandey/IdeaProjects/Swaglabs_gradle/src/test/resources/Features/Login.feature:4)&#13;
+</system-err></testcase></testsuite>
